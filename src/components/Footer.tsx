@@ -22,7 +22,7 @@ export default () => {
       <FooterItem>
         <h4>Precision Plumbing</h4>
 
-        <h3>Call Now: (707) 514-0106</h3>
+        <h3>Call Now: (707)-359-9629</h3>
 
         {/* <img src={twoPines} /> */}
 

@@ -32,7 +32,7 @@ export default observer(() => {
           <i>Serving your Yolo County plumbing needs</i>
         </p>
 
-        <h3>Call Now: (707) 514-0106</h3>
+        <h3>Call Now: (707)-359-9629</h3>
 
         {/* <StyledImg src={headerImg} /> */}
       </header>
