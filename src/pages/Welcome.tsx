@@ -1,13 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const CenteredImg = styled.img`
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-`;
-
 export default () => {
   return (
     <div>
@@ -24,15 +17,17 @@ export default () => {
         <h3>Services</h3>
 
         <p>
-          We handle everything from small leaks to major repairs. Some examples
-          of the services we provide are:
+          We handle everything from small leaks to major repairs and new
+          installs. Some examples of the services we provide are:
         </p>
 
         <ul>
-          <li>Clogged drains</li>
-          <li>Leaking faucets and pipes</li>
-          <li>Water heaters</li>
-          <li>Irrigation</li>
+          <li>Clogs and leaks</li>
+          <li>All faucets, valves, pipes, etc</li>
+          <li>Water heater installation and repair</li>
+          <li>Main line replacement and repair</li>
+          <li>Gas lines</li>
+          <li>Sinks, tubs, showers, etc</li>
           <li>
             <i>And more!</i>
           </li>

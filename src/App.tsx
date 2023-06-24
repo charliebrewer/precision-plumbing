@@ -8,7 +8,7 @@ import { createGlobalStyle } from 'styled-components';
 
 const GlobalStyle = createGlobalStyle`
   body {
-    background-color: #f1f1f1;
+    background-color: #606060;
     box-sizing: border-box;
     font-family: Arial;
   }
